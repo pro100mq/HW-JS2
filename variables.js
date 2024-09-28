@@ -42,7 +42,7 @@ const root = 144
 console.log(Math.sqrt(root))
 
 let intNumber = 53;
-let stringNumber = '53';
+let stringNumber = '184';
 let parsedInt = parseInt(stringNumber);
 console.log(parsedInt);
 
